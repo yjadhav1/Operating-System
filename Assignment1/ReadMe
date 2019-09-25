@@ -1,0 +1,6 @@
+Name: Yogesh M Jadhav
+Email-Id: yjadhav1@binghamton.edu
+B-Number: B00759152
+
+Description: After make file runs, './forking heightParam childrenParam' is to be executed to see the desired result. The program prints all the statements mentioned in the Assignment1.
+ It doesn't print 'Creating childrenParam child/children at height' for the last nodes, only the parent nodes print it. Just after all the children terminate, the parent process terminates printing 'Terminating at height heightParam'.
